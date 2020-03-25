@@ -1,1 +1,2 @@
-# Newsletter-App using Node.js and Mailchimp API 
+# Newsletter-App 
+Using Node.js and Mailchimp API 
