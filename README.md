@@ -14,7 +14,7 @@ This web application allows user to get subscriber using Mailchimp API.
 Reach out if you would like to contribute to this project!
 
 ## Future ideas:
-
+- if user has already been registered, redirect to another page advising of this
 
 ##
 
