@@ -10,12 +10,10 @@ This web application allows user to get subscriber using Mailchimp API.
 
 ## Contributors:
 - Guillaume Acho
-- Reach out if you would like to contribute to this project!
+
+Reach out if you would like to contribute to this project!
 
 ## Future ideas:
-Ability for user to have their own account if they want to save certain movies
-Ability to make a quick note (or review?) about movies
-Possibly share these reviews
 
 
 ##
