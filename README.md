@@ -6,7 +6,7 @@ This web application allows user to get subscriber using Mailchimp API.
 
 ## Tech Stack:
 - Node
-
+- Bootstrap
 
 ## Contributors:
 - Guillaume Acho
